@@ -1,0 +1,22 @@
+{
+  "name": "naturetours",
+  "version": "1.0.0",
+  "description": "A nature tours site for practicing css and sass.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cm718/naturetours.git"
+  },
+  "author": "Chris McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cm718/naturetours/issues"
+  },
+  "homepage": "https://github.com/cm718/naturetours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
